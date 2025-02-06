@@ -1,4 +1,5 @@
-Author : Wooyong Kang
+Author : Wooyong King
 
 Major : Computer Science 
 
+Added Content
